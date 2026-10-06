@@ -1,2 +1,26 @@
 # Global_layoffs_analysis
-Global layoffs data analysis from 2020 to 2023 using SQL for data cleaning and Power BI for visualization and insights.
+## 📌 Project Overview
+
+This project analyzes global layoffs data from 2020 to 2023 to identify trends
+across companies, industries, countries and time periods.
+
+## 🛠️ Tools Used
+
+- SQL
+- Power BI
+- Excel
+
+## 🔄 Project Workflow
+
+1. Data cleaning using SQL
+2. Exploratory data analysis
+3. Data transformation
+4. Power BI visualization
+5. Dashboard creation
+6. Business insights
+
+
+## 🔍 Key Insights
+-
+
+
