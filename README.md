@@ -24,6 +24,7 @@ Dashboard screenshot will be added here.
 
 
 ## 📁 Project Files
+
 -`layoffs.csv`-original dataset before cleaning
 -`layoffs_stagings2.csv`-dataset after cleaning in sql
 - `` – SQL cleaning and analysis queries
