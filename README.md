@@ -18,7 +18,17 @@ across companies, industries, countries and time periods.
 4. Power BI visualization
 5. Dashboard creation
 6. Business insights
+## 📊 Dashboard
 
+Dashboard screenshot will be added here.
+
+
+## 📁 Project Files
+-`layoffs.csv`-original dataset before cleaning
+-`layoffs_stagings2.csv`-dataset after cleaning in sql
+- `` – SQL cleaning and analysis queries
+- `layofspowerbi.pbix` – Power BI dashboard
+- `` – Dashboard images
 
 ## 🔍 Key Insights
 -
