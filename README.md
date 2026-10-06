@@ -29,7 +29,7 @@ Dashboard screenshot will be added here.
 -`layoffs_stagings2.csv`-dataset after cleaning in sql
 - `` – SQL cleaning and analysis queries
 - `layofspowerbi.pbix` – Power BI dashboard
-- `` – Dashboard images
+- `layoffs1.png` – Dashboard images
 
 ## 🔍 Key Insights
 -
